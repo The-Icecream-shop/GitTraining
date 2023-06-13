@@ -2,7 +2,7 @@
 
 ## Github
 
-### Members
+### Members of this Organisation
 
 - Kalavati Chinchali
 - Dhanush
@@ -10,4 +10,6 @@
 - Ashika Bhandari
 - ABCD
 - efgh
+- this is the training of github
+- Marmeto
 - This is Marmeto
