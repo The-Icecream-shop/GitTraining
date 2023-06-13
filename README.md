@@ -4,7 +4,7 @@
 
 ### Members
 
-- Kalavati
+- Kalavati Chinchali
 - Dhanush
 - Priti
 - Ashika 
