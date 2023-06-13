@@ -7,4 +7,4 @@
 - Kalavati Chinchali
 - Dhanush
 - Priti
-- Ashika 
+- Ashika Bhandari
