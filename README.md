@@ -3,4 +3,6 @@
 ## Github
 
 ### Members
-Ashika 
+
+- Priti
+- Ashika 
