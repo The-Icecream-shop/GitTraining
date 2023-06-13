@@ -6,10 +6,11 @@
 
 - Kalavati Chinchali
 - Dhanush
-- Priti Nikhare 
+- Priti
 - Ashika Bhandari
 - ABCD
 - efgh
 - this is the training of github
 - Marmeto
 - This is Marmeto
+- Welcome to Marmeto
