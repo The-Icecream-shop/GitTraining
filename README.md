@@ -4,7 +4,7 @@
 
 ### Members of this Organisation
 
-- Kalavati Chinchali
+- KALAVATI CHINCHALI
 - Dhanush
 - Priti
 - Ashika Bhandari
@@ -13,4 +13,3 @@
 - this is the training of github
 - Marmeto
 - This is Marmeto
-- Welcome to Marmeto
