@@ -6,7 +6,7 @@
 
 - Kalavati Chinchali
 - Dhanush
-- Priti
+- Priti Nikhare 
 - Ashika Bhandari
 - ABCD
 - efgh
