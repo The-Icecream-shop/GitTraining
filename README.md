@@ -4,7 +4,6 @@
 
 ### Members
 
-#### Priti
- 
-- new
-
+- Dhanush
+- Priti
+- Ashika 
