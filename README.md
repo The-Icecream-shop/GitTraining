@@ -23,7 +23,8 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git merge
 
 
-ashika-new-branch is my new git branach
+ashika-new-branch is my new git branch
+#this is Git branch Training.
 
 
 
