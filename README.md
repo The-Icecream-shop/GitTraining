@@ -13,3 +13,4 @@
 - this is the training of github
 - Marmeto
 - This is Marmeto
+- this is second day training
