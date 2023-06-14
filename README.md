@@ -1,7 +1,7 @@
 # Training Document
 
 ## Github
-
+### Good morning
 ### Members of this Organisation
 Lets start Github Traning:
 - KALAVATI CHINCHALI
@@ -23,6 +23,5 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git fetch [fetch the data from the file]
 - git clone [at the first time copying] 
 - git merge
-- welcome to marmeto
-- Good morning
+
 
