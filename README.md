@@ -20,10 +20,12 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git fetch [fetch the data from the file]
 - git clone [at the first time copying] 
 - git merge
+
 ### Git training continued ....
-ashika-new-branch is my new git branach
+ashika-new-branch is my new git branch
 - We created the new branch
 - now we are merging branch 
+#this is Git branch Training.
 
 ### Git Branch Training
 - new branch created 
