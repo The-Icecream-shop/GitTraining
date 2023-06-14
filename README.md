@@ -21,10 +21,6 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git clone [at the first time copying] 
 - git merge
 
-
-
-
-
 ### Git training continued ....
 ashika-new-branch is my new git branch
 - We created the new branch
