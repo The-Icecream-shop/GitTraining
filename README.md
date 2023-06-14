@@ -25,3 +25,4 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git merge
 
 ### Git training continued ....
+   How are you ?
