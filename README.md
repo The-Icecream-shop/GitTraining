@@ -16,15 +16,22 @@ Lets start Github Traning:
 These members are the part of The Icecream Shop Organisation. From this organisation we learnt the git commands like 
 - git add [add the file from Working Directory to Staging Area]
 - git commit with appropriate message 
-   git commit -m "Message"         [Staging Area to Local Repo]
 - git push [push the data or changes to file and Local Repo to Remote Repo]
 - git fetch [fetch the data from the file]
 - git clone [at the first time copying] 
 - git merge
 
 
+
+
+
+### Git training continued ....
 ashika-new-branch is my new git branch
+- We created the new branch
+- now we are merging branch 
 #this is Git branch Training.
 
-
+### Git Branch Training
+- new branch created 
+- new branches updated with the content
 
