@@ -34,8 +34,14 @@ ashika-new-branch is my new git branch
 - new branch created 
 - new branches updated with the content
 
-### Hi
+
+## Ashika 
+ I added new content.I want Icecream.I want chocolate
+
+### Kalavati
  How are you ?
+ I'm fine. 
+ What about you?
 
 
 Ashika I want to go home and I want to meet my parents and sister. Are you want to come with me?
