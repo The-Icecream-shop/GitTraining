@@ -21,6 +21,9 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git clone [at the first time copying] 
 - git merge
 
+
+### Git training continued ....
+
 - We created the new branch
 - now we are merging branch 
 
@@ -28,3 +31,4 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 
 - new branch created 
 - new branches updated with the content
+
