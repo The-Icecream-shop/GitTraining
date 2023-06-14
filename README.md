@@ -21,15 +21,24 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - git clone [at the first time copying] 
 - git merge
 
-### Git training continued ....
 ashika-new-branch is my new git branch
+
+### Git training continued ....
+
 - We created the new branch
 - now we are merging branch 
 #this is Git branch Training.
 
 ### Git Branch Training
+
 - new branch created 
 - new branches updated with the content
 
+
 ## Ashika 
  I added new content.I want Icecream.
+ I added new content.
+
+### Kalavati
+ How are you ?
+
