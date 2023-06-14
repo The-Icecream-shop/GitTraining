@@ -25,7 +25,7 @@ These members are the part of The Icecream Shop Organisation. From this organisa
 - new branch created 
 
 
--- new branches updated
+- new branches updated with the content
 
 
 
