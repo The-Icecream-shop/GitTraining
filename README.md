@@ -37,7 +37,6 @@ ashika-new-branch is my new git branch
 
 ## Ashika 
  I added new content.I want Icecream.
- I added new content.
 
 ### Kalavati
  How are you ?
