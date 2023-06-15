@@ -36,7 +36,13 @@ ashika-new-branch is my new git branch
 
 
 ## Ashika 
- I added new content. I want Icecream. I want chocolate. I want biriyani.
+ I added new content.
+ To set up Git, you'll first need to install it on your computer. You can download the appropriate version for your operating system from the official Git website.
+
+ Once Git is installed, you'll need to configure your name and email address. This is so that Git can properly track the changes you make. You can do this by running the following commands in the command line:
+
+ <b>git config --global user.name "Your Name"
+git config --global user.email "your@email.com"</b>
 
 ### Kalavati
  How are you ?
